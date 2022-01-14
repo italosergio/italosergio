@@ -1,7 +1,7 @@
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Ítalo!!!](https://github.com/italosergio)
 
 ```golang
-function GetBio() Bio {
+function GetBio() {
 	return Bio{
 		"- ⚡ Quick bio:":                     "A kind of musician-foodLover-gamer-coder-programmer",
 		"- 🔭 I’m currently working on":      "Software Developer, Trybe Student --- Class 15",
