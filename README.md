@@ -1,8 +1,8 @@
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Ítalo!!!](https://github.com/italosergio)
 
-```golang
+```javaScript
 function GetBio() {
-	return Bio{
+	return ({
 		"- ⚡ Quick bio:":                     "A kind of musician-foodLover-gamer-coder-programmer",
 		"- 🔭 I’m currently working on":      "Software Developer, Trybe Student --- Class 15",
 		"- 🌱 I’m currently learning":        "Node.js, Redux, JavaScript, CSS, TypeScript, HTML",
@@ -10,8 +10,8 @@ function GetBio() {
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Web-Dev and Future Tech Ideas",
 		"- 📫 How to reach me:":              "github.com/italosergio",
-	}
-}
+	});
+};
 ```
 <p align="right"><img src="https://profile-counter.glitch.me/{italosergio}/count.svg" alt="italosergio :: Visitor's Count" /></p>
 <p align="right">:eyes: profile visits</p>
