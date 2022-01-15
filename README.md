@@ -9,7 +9,7 @@ function GetBio() {
 		"- 👯 I’m looking to collaborate on": "FrontEnd/BackEnd related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Web-Dev and Future Tech Ideas",
-		"- 📫 How to reach me:":              "github.com/italosergio",
+		"- 📫 How to reach me:":              "linkedin.com/in/italosergio, italosergio@graduate.org",
 	});
 };
 ```
