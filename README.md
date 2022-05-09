@@ -5,11 +5,10 @@ function GetBio() {
 	return ({
 		"- ⚡ Quick bio:":                     "A kind of musician-foodLover-gamer-coder-programmer",
 		"- 🔭 I’m currently working on":      "Software Developer, Trybe Student --- Class 15",
-		"- 🌱 I’m currently learning":        "Node.js, Redux, JavaScript, CSS, TypeScript, HTML",
+		"- 🌱 I’m currently learning":        "Node.js, TypeScript, mocha, chai, sinon",
 		"- 👯 I’m looking to collaborate on": "FrontEnd/BackEnd related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Web-Dev and Future Tech Ideas",
-		"- 📫 How to reach me:":              "linkedin.com/in/italosergio, italosergio@graduate.org",
+		"- 🤔 I’m looking for help with":     "Code review and aprove's my projects",
+		"- 💬 Ask me about":                  "Web-Dev and tech future ideas",
 	});
 };
 ```
