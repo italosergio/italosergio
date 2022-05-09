@@ -13,59 +13,39 @@ function GetBio() {
 	});
 };
 ```
-<p align="right"><img src="https://profile-counter.glitch.me/{italosergio}/count.svg" alt="italosergio :: Visitor's Count" /></p>
-<p align="right">:eyes: profile visits</p>
 
-<h2 align="center">My Tech Stack</h2>
 
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Python</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div>
+  <a href="https://github.com/italosergio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italosergio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosergio&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
-<h2 align="center">You can reach me at</h2>
 
-<p align="center">
-   <a href="https://www.linkedin.com/in/italosergio/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Italo Sergio's LinkedIn Profile" height="50" width="50">
-  </a>
-</p>
+  ## 
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Buzz Lightyear Pixar Avatar" src="https://user-images.githubusercontent.com/87591265/167368891-7b607fd0-dd07-4c68-aeeb-37a2cc22432e.png">
+
+</div>
+
+  ##
+  
+  
+<div> 
+
+  <a href = "mailto:italo@linuxmail.org"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/italosergio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/italosergio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FF081A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+##
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p align="right"><img alt="visitors counter" src="https://img.shields.io/badge/-visitors-%2346FF00?style=for-the-badge&color=black"></a></p>
+<p align="right"><img alt="visitors icon"src="https://profile-counter.glitch.me/{italosergio}/count.svg" alt="italosergio :: Visitor's Count" height="30" width="200"/></p>
