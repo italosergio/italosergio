@@ -17,8 +17,8 @@ function GetBio() {
 
 <div>
   <a href="https://github.com/italosergio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italosergio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosergio&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=italosergio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosergio&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 
@@ -30,7 +30,7 @@ function GetBio() {
   <img align="center" alt="React icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Buzz Lightyear Pixar Avatar" src="https://user-images.githubusercontent.com/87591265/167368891-7b607fd0-dd07-4c68-aeeb-37a2cc22432e.png">
+  <img align="right" width="400" alt="Buzz Lightyear Pixar Avatar" src="https://user-images.githubusercontent.com/87591265/167368891-7b607fd0-dd07-4c68-aeeb-37a2cc22432e.png">
 
 </div>
 
@@ -46,6 +46,6 @@ function GetBio() {
 ##
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="right"><img alt="visitors counter" src="https://img.shields.io/badge/-visitors-%2346FF00?style=for-the-badge&color=black"></a></p>
-<p align="right"><img alt="visitors icon"src="https://profile-counter.glitch.me/{italosergio}/count.svg" alt="italosergio :: Visitor's Count" height="30" width="200"/></p>
+<br><br><br><br><br><br><br><br>
+<p align="left"><img height="47em" alt="visitors counter" src="https://img.shields.io/badge/-   visitors         -%2346FF00?style=for-the-badge&color=black"></a></p>
+<p align="left"><img height="20em" alt="visitors icon"src="https://profile-counter.glitch.me/{italosergio}/count.svg" alt="italosergio :: Visitor's Count"/></p>
