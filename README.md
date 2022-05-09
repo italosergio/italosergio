@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Ítalo!!!](https://www.linkedin.com/in/italosergio/)
+## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Ítalo!!!](https://drive.google.com/file/d/14TV-d8NIqsBWGzAOQTP76OgtmwHnoMbI/view?usp=sharing)
 
 ```javaScript
 function GetBio() {
