@@ -29,7 +29,12 @@ function GetBio() {
   <img align="center" alt="React icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" width="400" alt="Buzz Lightyear Pixar Avatar" src="https://user-images.githubusercontent.com/87591265/167368891-7b607fd0-dd07-4c68-aeeb-37a2cc22432e.png">
+  <img align="center" alt="Node icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Docker icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="Heroku icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
+<img align="center" alt="mysql icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">	
+<img align="right" width="400" alt="Buzz Lightyear Pixar Avatar" src="https://user-images.githubusercontent.com/87591265/167368891-7b607fd0-dd07-4c68-aeeb-37a2cc22432e.png">
+
 
 </div>
 
