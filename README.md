@@ -22,22 +22,22 @@ function GetBio() {
 
 
   ## 
-  
+ 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js icon" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts icon" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React icon" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML icon" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS icon" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js icon" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts icon" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React icon" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML icon" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS icon" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" width="400" alt="Buzz Lightyear Pixar Avatar" src="https://user-images.githubusercontent.com/87591265/167368891-7b607fd0-dd07-4c68-aeeb-37a2cc22432e.png">
 </div>
 	
 <div style="display: inline_block"><br>
-	  <img align="center" alt="Node icon" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Docker icon" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="center" alt="Heroku icon" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
-<img align="center" alt="mysql icon" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">	
-<img align="center" alt="sequelize" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img align="center" alt="Node icon" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Docker icon" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Heroku icon" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
+  <img align="center" alt="mysql icon" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">	
+  <img align="center" alt="sequelize" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 
 </div>
 	
