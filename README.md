@@ -4,10 +4,10 @@
 function GetBio() {
 	return ({
 		"- ⚡ Quick bio:":                     "A kind of musician-foodLover-gamer-coder-programmer",
-		"- 🔭 I’m currently working on":      "Software Developer, Trybe Student --- Class 15",
-		"- 🌱 I’m currently learning":        "Node.js, TypeScript, mocha, chai, sinon",
+		"- 🔭 I’m currently working on":      "Web Developer",
+		"- 🌱 I’m currently learning":        "MongoDb, Mongoose",
 		"- 👯 I’m looking to collaborate on": "FrontEnd/BackEnd related projects",
-		"- 🤔 I’m looking for help with":     "Code review and aprove's my projects",
+		"- 🤔 I’m looking for help with":     "Code review my public projects",
 		"- 💬 Ask me about":                  "Web-Dev and tech future ideas",
 	});
 };
@@ -54,6 +54,6 @@ function GetBio() {
 
 
 
-<br><br><br>
+<br><br>
 <p align="left"><img height="47em" alt="visits counter" src="https://img.shields.io/badge/-   visits         -%2346FF00?style=for-the-badge&color=black"></a></p>
 <p align="left"><img height="20em" alt="visits icon"src="https://profile-counter.glitch.me/{italosergio}/count.svg" alt="italosergio :: Visitor's Count"/></p>
