@@ -1,15 +1,28 @@
-## Hey ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/87591265/171522857-b7c02ada-f81a-4784-ac16-09ef93a2f4d2.gif), I'm Ítalo!
+## Olá ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/87591265/171522857-b7c02ada-f81a-4784-ac16-09ef93a2f4d2.gif), seja bem vinda(o)!
 
 ```javaScript
-function GetBio() {
-	return ({
-		"- ⚡ Quick bio:":                     "A kind of musician-foodLover-gamer-coder-programmer",
-		"- 🔭 I’m currently working on":      "Web Developer",
-		"- 🌱 I’m currently learning":        "MongoDb, Mongoose",
-		"- 👯 I’m looking to collaborate on": "FrontEnd/BackEnd related projects",
-		"- 🤔 I’m looking for help with":     "Code review my public projects",
-		"- 💬 Ask me about":                  "Web-Dev and tech future ideas",
-	});
+function GetBioPtBr() {
+  return ({
+    "- ⚡ Bio rápida:":                    "Um pouco de músico-fãDeComidas-gamer-amanteDaNatureza-programador",
+    "- 🔭 Atualmente trabalhando com":    "Desenvolver aplicações web",
+    "- 🌱 Atualmente aprendendo":         "MongoDb, Mongoose",
+    "- 👯 Procurando colaboração com":    "Oportunidades de vagas de emprego",
+    "- 🤔 Precisando de ajuda com":       "Code reviews dos meus projetos, fique a vontade pra abrir PRs!",
+    "- 💬 Pergunte me sobre":             "Tecnicas de clean code, dívida técnica, futuro das empresas de desenvolvimento",
+    "- 👀 Curiosities": 		  "Luto Muai Thay, já trabalhei vendendo chinelo na praia pra pagar a faculdade, amo banho de caneca, andar de bicicleta na chuva, jogo bike polo, gosto de engenhocas eletrônicas",
+  });
+};
+
+function GetBioEn() {
+  return ({
+    "- ⚡ Quick bio:":                     "A kind of musician-foodLover-gamer-natureLover-programmer",
+    "- 🔭 I’m currently working on":      "Web Developer",
+    "- 🌱 I’m currently learning":        "MongoDb, Mongoose",
+    "- 👯 I’m looking to collaborate on": "Job vacancies opportunities",
+    "- 🤔 I’m looking for help with":     "Code review my projects, feel free to open PRs and help me!",
+    "- 💬 Ask me about":                  "Clean code techniques, technical debt, future of development companies",
+    "- 👀 Curiosities": 		  "I fight Muai Thay, I already worked selling flip flops on the beach to pay for college, I love bucket bath, I love bike riding in the rain, I play bike polo, I like electronic gadgets",
+  });
 };
 ```
 <div>
