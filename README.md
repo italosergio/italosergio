@@ -37,9 +37,9 @@ function GetBioEn() {
   <img align="center" alt="React icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" width="400" alt="Buzz Lightyear Pixar Avatar" src="https://user-images.githubusercontent.com/87591265/167368891-7b607fd0-dd07-4c68-aeeb-37a2cc22432e.png">
+  <img align="right" width="400" alt="My three avatars combineds in a programming blue background" src="https://user-images.githubusercontent.com/87591265/172029753-614f0d2b-0fe3-4fec-9c2f-e75df35450bc.png">
 </div>
-	
+
 <div style="display: inline_block"><br>
 	  <img align="center" alt="Node icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Docker icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
