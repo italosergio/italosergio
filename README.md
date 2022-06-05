@@ -1,9 +1,12 @@
-## Olá ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/87591265/171522857-b7c02ada-f81a-4784-ac16-09ef93a2f4d2.gif), seja bem vinda(o)!
+<img align="left" height="150em" src="https://user-images.githubusercontent.com/87591265/172029932-67a144d4-48b4-4103-864f-6dc5ca1ee2ec.png"/>
+
+# Olá ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/87591265/171522857-b7c02ada-f81a-4784-ac16-09ef93a2f4d2.gif), seja bem vinda(o)!
+<br><br><br>
 
 ```javaScript
 function GetBioPtBr() {
   return ({
-    "- ⚡ Bio rápida:":                    "Um pouco de músico-fãDeComidas-gamer-amanteDaNatureza-programador",
+    "- ⚡ Bio rápida:":                    "Uma mistura de músico-fãDeComidas-gamer-amanteDaNatureza-programador",
     "- 🔭 Atualmente trabalhando com":    "Desenvolver aplicações web",
     "- 🌱 Atualmente aprendendo":         "MongoDb, Mongoose",
     "- 👯 Procurando colaboração com":    "Oportunidades de vagas de emprego",
@@ -25,6 +28,7 @@ function GetBioEn() {
   });
 };
 ```
+
 <div>
   <a href="https://github.com/italosergio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italosergio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -68,5 +72,5 @@ function GetBioEn() {
 
 
 <br><br>
-<p align="left"><img height="47em" alt="visits counter" src="https://img.shields.io/badge/-   visits         -%2346FF00?style=for-the-badge&color=black"></a></p>
-<p align="left"><img height="20em" alt="visits icon"src="https://profile-counter.glitch.me/{italosergio}/count.svg" alt="italosergio :: Visitor's Count"/></p>
+<p align="left"><img height="47em" alt="visits counter" src="https://img.shields.io/badge/-visits-%2346FF00?style=for-the-badge&color=black"></a></p>
+<p align="left"><img height="20em" alt="visits icon"src="https://profile-counter.glitch.me/{italosergio}/count.svg" alt="italosergio Visitor's Count"/></p>
