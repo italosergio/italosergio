@@ -63,12 +63,12 @@ function GetBioEn() {
   <a target="_blank" href="https://wa.me/5581998416545?text=Olá!%20Encontrei%20seu%20GitHub.%20Podemos%20conversar%20por%20aqui?">
     <img src="https://img.shields.io/badge/WhatsApp-4BB749?style=for-the-badge&logo=whatsapp&logoColor=white" />        
   </a><br>
-  <a href = "mailto:italo@linuxmail.org"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank"></a>
+  <a href = "mailto:italo@linuxmail.org"><img src="https://img.shields.io/badge/-Email-002050?style=for-the-badge&logo=Minutemailer&logoColor=white" target="_blank"></a>
   <a target="_blank" href="https://drive.google.com/file/d/1zhGrd5nkzlL2J3xfDkaz5yhjErL2cp1c/view?usp=sharing">
-    <img src="https://img.shields.io/badge/cv-PTBR-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV-PTBR-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
   <a target="_blank" href="https://drive.google.com/file/d/1KWxUM8xT27jmEN8O5rybxbwbBdFDVgNR/view?usp=sharing">
-    <img src="https://img.shields.io/badge/cv-EN-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV-EN-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
   
 ##
