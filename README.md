@@ -12,7 +12,7 @@ function GetBioPtBr() {
     "- 👯 Procurando colaboração com":    "Oportunidades de vagas de emprego",
     "- 🤔 Precisando de ajuda com":       "Code reviews dos meus projetos, fique a vontade pra abrir PRs!",
     "- 💬 Pergunte me sobre":             "Tecnicas de clean code, dívida técnica, futuro das empresas de desenvolvimento",
-    "- 👀 Curiosities": 		  "Luto Muai Thay, já trabalhei vendendo chinelo na praia pra pagar a faculdade, amo banho de caneca, andar de bicicleta na chuva, jogo bike polo, gosto de engenhocas eletrônicas",
+    "- 👀 Curiosidades": 		  "Luto Muai Thay, já trabalhei vendendo chinelo na praia pra pagar a faculdade, amo banho de caneca, andar de bicicleta na chuva, jogo bike polo, gosto de engenhocas eletrônicas",
   });
 };
 
@@ -65,10 +65,10 @@ function GetBioEn() {
   </a><br>
   <a href = "mailto:italo@linuxmail.org"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank"></a>
   <a target="_blank" href="https://drive.google.com/file/d/1zhGrd5nkzlL2J3xfDkaz5yhjErL2cp1c/view?usp=sharing">
-    <img src="https://img.shields.io/badge/RESUME-PTBR-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/cv-PTBR-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
   <a target="_blank" href="https://drive.google.com/file/d/1KWxUM8xT27jmEN8O5rybxbwbBdFDVgNR/view?usp=sharing">
-    <img src="https://img.shields.io/badge/RESUME-EN-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/cv-EN-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
   
 ##
