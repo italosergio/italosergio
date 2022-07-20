@@ -1,6 +1,6 @@
 <img align="left" height="150em" src="https://user-images.githubusercontent.com/87591265/172029932-67a144d4-48b4-4103-864f-6dc5ca1ee2ec.png"/>
 
-# Olá ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/87591265/171522857-b7c02ada-f81a-4784-ac16-09ef93a2f4d2.gif), seja bem vinda(o)!
+# Olá ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/87591265/171522857-b7c02ada-f81a-4784-ac16-09ef93a2f4d2.gif), seja bem vinda(o)! <img align="center" height="50" width="50" alt="Chai icon" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/linux_ico.png">
 <br><br><br>
 
 ```javaScript
@@ -28,6 +28,7 @@ function GetBioEn() {
   });
 };
 ```
+  ##
 
 <div align="center">
   <a href="https://github.com/italosergio">
@@ -43,20 +44,26 @@ function GetBioEn() {
   <img align="center" alt="React icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" width="400" alt="My three avatars combineds in a programming blue background" src="https://user-images.githubusercontent.com/87591265/172029753-614f0d2b-0fe3-4fec-9c2f-e75df35450bc.png">
+  <img align="right" width="350" alt="My three avatars combineds in a programming blue background" src="https://user-images.githubusercontent.com/87591265/172029753-614f0d2b-0fe3-4fec-9c2f-e75df35450bc.png">
 </div>
 
 <div style="display: inline_block"><br>
-	  <img align="center" alt="Node icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Mongoose icon" height="100em" width="80" src="https://cdn2.hubspot.net/hubfs/4008838/mogoose-logo.png">
+  <img align="center" alt="Mongodb icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Docker icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="center" alt="Heroku icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
-<img align="center" alt="mysql icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">	
-<img align="center" alt="sequelize" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-
+  <img align="center" alt="mysql icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">	
+  <img align="center" alt="sequelize" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 </div>
 	
+<div style="display: inline_block"><br>
+  	<img align="center" alt="Jest icon" height="50" width="80" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+  	<img align="center" alt="eslint" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
+	<img align="center" alt="Node icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  	<img align="center" height="50" width="80" alt="Mocha icon" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mocha.svg">
+  	
+</div>
+
   ##
-  
   
 <div> 
 
@@ -75,8 +82,6 @@ function GetBioEn() {
   
 ##
 
-
-
-<br><br>
+<br>
 <p align="left"><img height="47em" alt="visits counter" src="https://img.shields.io/badge/-visits-%2346FF00?style=for-the-badge&color=black"></a></p>
 <p align="left"><img height="20em" alt="visits icon"src="https://profile-counter.glitch.me/{italosergio}/count.svg" alt="italosergio Visitor's Count"/></p>
