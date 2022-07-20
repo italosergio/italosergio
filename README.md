@@ -70,8 +70,11 @@ function GetBioEn() {
   <a href="https://www.linkedin.com/in/italosergio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/italosergio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FF081A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a target="_blank" href="https://wa.me/5588994693031?text=Olá!%20Encontrei%20seu%20GitHub.%20Podemos%20conversar%20por%20aqui?">
-    <img src="https://img.shields.io/badge/WhatsApp-4BB749?style=for-the-badge&logo=whatsapp&logoColor=white" />        
-  </a><br>
+    <img src="https://img.shields.io/badge/WhatsApp-4BB749?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://join.slack.com/t/slack-nla3884/shared_invite/zt-1cqmkluue-cNVJJ61JR6nfTBku~8suwQ" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/NMhESXQx" target="_blank"><img src="https://img.shields.io/badge/Discord-%230020B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <br />
+  <br />
   <a href = "mailto:italo@linuxmail.org"><img src="https://img.shields.io/badge/-Email-002050?style=for-the-badge&logo=Minutemailer&logoColor=white" target="_blank"></a>
   <a target="_blank" href="https://drive.google.com/file/d/1zhGrd5nkzlL2J3xfDkaz5yhjErL2cp1c/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-PTBR-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" />
@@ -79,7 +82,6 @@ function GetBioEn() {
   <a target="_blank" href="https://drive.google.com/file/d/1KWxUM8xT27jmEN8O5rybxbwbBdFDVgNR/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-EN-2D3748?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
-  
 ##
 <img height="100em" src="https://github.com/italosergio/italosergio/blob/output/github-contribution-grid-snake.svg"></img>
 
