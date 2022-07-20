@@ -81,7 +81,8 @@ function GetBioEn() {
   </a>
   
 ##
+<img height="100em" src="https://github.com/italosergio/italosergio/blob/output/github-contribution-grid-snake.svg"></img>
 
-<br>
 <p align="left"><img height="47em" alt="visits counter" src="https://img.shields.io/badge/-visits-%2346FF00?style=for-the-badge&color=black"></a></p>
 <p align="left"><img height="20em" alt="visits icon"src="https://profile-counter.glitch.me/{italosergio}/count.svg" alt="italosergio Visitor's Count"/></p>
+
