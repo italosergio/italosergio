@@ -39,27 +39,27 @@ function GetBioEn() {
 <div style="display: inline_block"><br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://www.javascript.com/"><img align="center" alt="Js icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://www.typescriptlang.org//"><img align="center" alt="Ts icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+  <a href="https://pt-br.reactjs.org/"><img align="center" alt="React icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://www.w3schools.com/html"><img align="center" alt="HTML icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://www.w3schools.com/html"><img align="center" alt="CSS icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <img align="right" width="400" alt="My three avatars combineds in a programming blue background" src="https://user-images.githubusercontent.com/87591265/172029753-614f0d2b-0fe3-4fec-9c2f-e75df35450bc.png">
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mongoose icon" height="100em" width="80" src="https://cdn2.hubspot.net/hubfs/4008838/mogoose-logo.png">
-  <img align="center" alt="Mongodb icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Docker icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="mysql icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">	
-  <img align="center" alt="sequelize" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <a href="https://mongoosejs.com"><img align="center" alt="Mongoose icon" height="100em" width="80" src="https://cdn2.hubspot.net/hubfs/4008838/mogoose-logo.png"></a>
+  <a href="https://www.mongodb.com"><img align="center" alt="Mongodb icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
+  <a href="https://docs.docker.com"><img align="center" alt="Docker icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
+  <a href="https://dev.mysql.com/doc/"><img align="center" alt="mysql icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+  <a href="https://sequelize.org"><img align="center" alt="sequelize" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /></a>
 </div>
 	
 <div style="display: inline_block"><br>
-  	<img align="center" alt="Jest icon" height="50" width="80" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-  	<img align="center" alt="eslint" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
-	<img align="center" alt="Node icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  	<img align="center" height="50" width="80" alt="Mocha icon" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mocha.svg">
+  	<a href="https://jestjs.io"><img align="center" alt="Jest icon" height="50" width="80" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></a>
+  	<a href="https://eslint.org"><img align="center" alt="eslint" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"></a>
+	<a href="https://nodejs.org"><img align="center" alt="Node icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+  	<a href="https://mochajs.org"><img align="center" height="50" width="80" alt="Mocha icon" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mocha.svg"></a>
   	
 </div>
 
