@@ -1,6 +1,6 @@
 <img align="left" height="150em" src="https://user-images.githubusercontent.com/87591265/172029932-67a144d4-48b4-4103-864f-6dc5ca1ee2ec.png"/>
 
-# Olá ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/87591265/171522857-b7c02ada-f81a-4784-ac16-09ef93a2f4d2.gif), seja bem vinda(o)! <img align="center" height="50" width="50" alt="Chai icon" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/linux_ico.png">
+<img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&width=610&height=80&lines=Olá!+Sou+o+Ítalo!;Desenvolvedor+Full+Stack+haha!;Bem+vinda(o)+ao+meu+Github!;Fica+à+vontade!!;">
 <br><br><br>
 
 ```javaScript
