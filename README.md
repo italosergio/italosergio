@@ -8,7 +8,7 @@ function GetBioPtBr() {
   return ({
     "- ⚡ Bio rápida:":                    "Uma mistura de músico-fãDeComidas-gamer-amanteDaNatureza-programador",
     "- 🔭 Atualmente trabalhando com":    "Desenvolver aplicações web",
-    "- 🌱 Atualmente aprendendo":         "MongoDb, Mongoose",
+    "- 🌱 Atualmente aprendendo":         "Python",
     "- 👯 Procurando colaboração com":    "Projetos opensource para melhoria em Technical Debt",
     "- 🤔 Precisando de ajuda com":       "Code reviews dos meus projetos, fique a vontade pra abrir PRs!",
     "- 💬 Pergunte me sobre":             "Tecnicas de clean code, dívida técnica, futuro das empresas de desenvolvimento",
@@ -20,7 +20,7 @@ function GetBioEn() {
   return ({
     "- ⚡ Quick bio:":                     "A kind of musician-foodLover-gamer-natureLover-programmer",
     "- 🔭 I’m currently working on":      "Web Developer",
-    "- 🌱 I’m currently learning":        "MongoDb, Mongoose",
+    "- 🌱 I’m currently learning":        "Python",
     "- 👯 I’m looking to collaborate on": "Open Source projects to improvement Technical Debt!",
     "- 🤔 I’m looking for help with":     "Code review my projects, feel free to open PRs and help me!",
     "- 💬 Ask me about":                  "Clean code techniques, technical debt, future of development companies",
