@@ -6,25 +6,13 @@
 ```javaScript
 function GetBioPtBr() {
   return ({
-    "- ⚡ Bio rápida:":                    "Uma mistura de músico-fãDeComidas-gamer-amanteDaNatureza-programador",
-    "- 🔭 Atualmente trabalhando com":    "Desenvolver aplicações web",
+    "- ⚡⚡ Resumo da bio:":                "Uma mistura de músico-fãDeComidas-gamer-amanteDaNatureza-programador",
+    "- 🔭 Atualmente trabalhando com":    "Aplicações web no front com Javascript e React e back com SQL ou Mongo e ",
     "- 🌱 Atualmente aprendendo":         "Python",
     "- 👯 Procurando colaboração com":    "Projetos opensource para melhoria em Technical Debt",
     "- 🤔 Precisando de ajuda com":       "Code reviews dos meus projetos, fique a vontade pra abrir PRs!",
     "- 💬 Pergunte me sobre":             "Tecnicas de clean code, dívida técnica, futuro das empresas de desenvolvimento",
-    "- 👀 Curiosidades": 		  "Luto Muai Thay, já trabalhei vendendo chinelo na praia pra pagar a faculdade, amo banho de caneca, andar de bicicleta na chuva, jogo bike polo, gosto de engenhocas eletrônicas",
-  });
-};
-
-function GetBioEn() {
-  return ({
-    "- ⚡ Quick bio:":                     "A kind of musician-foodLover-gamer-natureLover-programmer",
-    "- 🔭 I’m currently working on":      "Web Developer",
-    "- 🌱 I’m currently learning":        "Python",
-    "- 👯 I’m looking to collaborate on": "Open Source projects to improvement Technical Debt!",
-    "- 🤔 I’m looking for help with":     "Code review my projects, feel free to open PRs and help me!",
-    "- 💬 Ask me about":                  "Clean code techniques, technical debt, future of development companies",
-    "- 👀 Curiosities": 		  "I fight Muai Thay, I already worked selling flip flops on the beach to pay for college, I love bucket bath, I love bike riding in the rain, I play bike polo, I like electronic gadgets",
+    "- 👀 Uma curiosidade": 		  "Sou ativista da Bicicleta na mobilidade urbana, luto muay thai, leitor, sou nômade minha casa sempre é onde estou",
   });
 };
 ```
