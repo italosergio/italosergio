@@ -4,7 +4,7 @@
 <br><br><br>
 
 ```javaScript
-function GetBioPtBr() {
+function getBioPtBr() {
   return ({
     "- ⚡⚡ Resumo da bio:":                "Uma mistura de músico-fãDeComidas-gamer-amanteDaNatureza-programador",
     "- 🔭 Atualmente trabalhando com":    "Aplicações web no front com Javascript e React e back com SQL ou Mongo e ",
