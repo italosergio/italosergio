@@ -7,11 +7,11 @@
 function getBioPtBr() {
   return ({
     "- ⚡⚡ Resumo da bio:":                "Uma mistura de músico-fãDeComidas-gamer-amanteDaNatureza-programador",
-    "- 🔭 Atualmente trabalhando com":    "Aplicações web no front com Javascript e React e back com SQL ou Mongo e ",
+    "- 🔭 Atualmente trabalhando com":    "Aplicações web no front com Javascript e React e back com TypeScript e Node.Js",
     "- 🌱 Atualmente aprendendo":         "Automatização de processos com pyautogui",
-    "- 👯 Procurando colaboração com":    "Indicação de libs legais de python",
-    "- 🤔 Precisando de ajuda com":       "Code reviews dos meus projetos, fique a vontade pra abrir PRs!",
-    "- 💬 Pergunte me sobre":             "Técnicas de clean code, dívida técnica, futuro das empresas de desenvolvimento",
+    "- 👯 Procurando colaboração com":    "Indicação de libs legais de python para automatização de processos",
+    "- 🤔 Precisando de ajuda com":       "Code reviews dos meus projetos",
+    "- 💬 Pergunte me sobre":             "Desenvolvimento, Mobilidade urbana, Ciências exatas num geral",
     "- 👀 Uma curiosidade": 		  "Ganhei meu primeiro computador aos 12, monitor tubão, e o primeiro jogo foi metal slug",
   });
 };
