@@ -8,11 +8,10 @@ function getBioPtBr() {
   return ({
     "- ⚡⚡ Resumo da bio:":                "Uma mistura de músico-fãDeComidas-gamer-amanteDaNatureza-programador",
     "- 🔭 Atualmente trabalhando com":    "Aplicações web no front com Javascript e React e back com TypeScript e Node.Js",
-    "- 🌱 Atualmente aprendendo":         "Automatização de processos com pyautogui",
-    "- 👯 Procurando colaboração com":    "Indicação de libs legais de python para automatização de processos",
-    "- 🤔 Precisando de ajuda com":       "Code reviews dos meus projetos",
-    "- 💬 Pergunte me sobre":             "Desenvolvimento, Mobilidade urbana, Ciências exatas num geral",
-    "- 👀 Uma curiosidade": 		  "Ganhei meu primeiro computador aos 12, monitor tubão, e o primeiro jogo foi metal slug",
+    "- 🌱 Atualmente aprendendo":         "Desenvolvimento de microservicos API Rest em python",
+    "- 👯 Procurando colaboração com":    "Empresas ou pessoas que tenham projetos e ideias inovadoras pra contruir com tecnologia",
+    "- 💬 Pergunte me sobre":             "Desenvolvimento, Mobilidade Urbana, Astronomia, Cultura Nômade, Cultura Brasileira, Viajens",
+    "- 👀 Uma curiosidade": 		  "Tive o primeiro computador aos 12, monitor tubão, 552MB de memoria, e o primeiro jogo foi metal slug",
   });
 };
 ```
