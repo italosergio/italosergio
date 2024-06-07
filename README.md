@@ -1,22 +1,11 @@
 <img align="left" height="150em" src="https://user-images.githubusercontent.com/87591265/172029932-67a144d4-48b4-4103-864f-6dc5ca1ee2ec.png"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&width=610&height=80&lines=Olá!+Sou+o+Ítalo!;Desenvolvedor+Full+Stack+haha!;Bem+vinda(o)+ao+meu+Github!;Fica+à+vontade!!;">
-www.italosergio.tech
+
 <br><br><br>
 
-```javaScript
-function getBioPtBr() {
-  return ({
-    "- ⚡⚡ Resumo da bio:":                "Uma mistura de músico-fãDeComidas-gamer-amanteDaNatureza-programador",
-    "- 🔭 Atualmente trabalhando com":    "Aplicações web no front com Javascript e React e back com TypeScript e Node.Js",
-    "- 🌱 Atualmente aprendendo":         "Desenvolvimento de microservicos API Rest em python",
-    "- 👯 Procurando colaboração com":    "Empresas ou pessoas que tenham projetos e ideias inovadoras pra contruir com tecnologia",
-    "- 💬 Pergunte me sobre":             "Desenvolvimento, Mobilidade Urbana, Astronomia, Cultura Nômade, Cultura Brasileira, Viajens",
-    "- 👀 Uma curiosidade": 		  "Tive o primeiro computador aos 12, monitor tubão, 552MB de memoria, e o primeiro jogo foi metal slug",
-  });
-};
-```
-  ##
+Programador e Desenvolvedor com experiência focada no campo do ativismo e mobilidade ativa. Atualmente trabalhando com acessibilidade e tratamento de dados do [Projeto IDECICLO](https://github.com/Ameciclo/ideciclo-processador-GPX) - Através da [AMECICLO (Associação Metropolitana de Ciclistas do Recife)](https://www.ameciclo.org/)"
+##
 
 <div align="center">
   <a href="https://github.com/italosergio">
