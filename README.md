@@ -8,7 +8,7 @@ Principais projetos [loaclima.ameciclo.org](https://loaclima.ameciclo.org/) | [b
 
 Programador e Desenvolvedor com experiência focada na área do cicloativismo e mobilidade ativa.
 
-Atualmente trabalhando com Projeto Ciclo Dados, que consiste em unificar e desenvolver todos os sistemas [AMECICLO](https://www.ameciclo.org/)" dentro da plataforma [ameciclo.org](https://www.ameciclo.org/)"
+Atualmente trabalhando com Projeto Ciclo Dados e Ameciclistas, o primeiro consiste em unificar e desenvolver todos os sistemas [AMECICLO](https://www.ameciclo.org/)" dentro da plataforma [ameciclo.org](https://www.ameciclo.org/)" e o segundo em criação e desenvolvimento de uma plataforma mobile de funcionalidades organizacionais, gerencias, e para usuários associados. Abaixo, mais sobre...
 
 Acompanhe meu trabalho em tempo real:
 
