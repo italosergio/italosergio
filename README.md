@@ -7,7 +7,7 @@
 Principais projetos [loaclima.ameciclo.org](https://loaclima.ameciclo.org/) | [dom.ameciclo.org](https://dom.ameciclo.org/)
 Projetos Atuantes: [ameciclo.org](https://ameciclo.org/) | [bicicultura.org.br](https://bicicultura.org.br/)
 
-Programador e Desenvolvedor com experiência focada na área do Cicloativismo e Mobilidade Ativa e Direito à Cidade.
+Foco em desenvolvimento acessível e sustentável para o Cicloativismo, Mobilidade Ativa e Direito à Cidade.
 
 Atualmente trabalhando com Projeto Ciclo Dados, que consiste em unificar e desenvolver os sistemas [dados.ameciclo.org](https://dados.ameciclo.org/) | [loaclima.ameciclo.org](https://loaclima.ameciclo.org/) | [dom.ameciclo.org](https://dom.ameciclo.org/) | " dentro da plataforma [ameciclo.org](https://www.ameciclo.org/)" 
 
