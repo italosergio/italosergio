@@ -1,5 +1,4 @@
-
-<img width="1536" height="1024" alt="8a1619da-9e2b-4af2-93d7-c632ea47e443" src="https://github.com/user-attachments/assets/aae60ac4-1c5b-47df-969b-2a9e40f60b0d" />
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/aae60ac4-1c5b-47df-969b-2a9e40f60b0d" />
 
 <img align="left" height="150em" src="https://user-images.githubusercontent.com/87591265/172029932-67a144d4-48b4-4103-864f-6dc5ca1ee2ec.png"/>
 
@@ -7,15 +6,32 @@
 
 <br><br><br>
 
-Principais projetos [loaclima.ameciclo.org](https://loaclima.ameciclo.org/) | [dom.ameciclo.org](https://dom.ameciclo.org/)
-Projetos Atuantes: [ameciclo.org](https://ameciclo.org/) | [bicicultura.org.br](https://bicicultura.org.br/)
+## 🚀 Sobre mim
 
-Foco em desenvolvimento acessível e sustentável para o Cicloativismo, Mobilidade Ativa e Direito à Cidade.
+Desenvolvedor Full Stack com foco em soluções acessíveis e sustentáveis, atuando principalmente em projetos de **Cicloativismo, Mobilidade Ativa e Direito à Cidade**.
 
-Atualmente trabalhando com Projeto Ciclo Dados, que consiste em unificar e desenvolver os sistemas [dados.ameciclo.org](https://dados.ameciclo.org/) | [loaclima.ameciclo.org](https://loaclima.ameciclo.org/) | [dom.ameciclo.org](https://dom.ameciclo.org/) | " dentro da plataforma [ameciclo.org](https://www.ameciclo.org/)" 
+Tenho experiência na criação de plataformas digitais que conectam dados, pessoas e impacto social.
 
-Acompanhe meu trabalho em tempo real:
 
-### CicloDados
-[Repo do Projeto](https://github.com/Ameciclo/ameciclo)
-- [PR de Migração do Site da Ameciclo para nova tecnologia (next14 para remixV2)](https://github.com/Ameciclo/ameciclo/pull/109)
+## 📊 CicloDados (finalizado)
+
+Participei do desenvolvimento do **CicloDados**, um projeto voltado à unificação e evolução dos sistemas da Ameciclo, integrando diferentes plataformas em uma experiência mais coesa e escalável.
+
+Agora o projeto está **finalizado e disponível publicamente**:
+
+👉 https://ameciclo.org/dados/ciclodados
+
+---
+
+## 🔧 Contribuições
+
+- [Repositório do Projeto Ameciclo](https://github.com/Ameciclo/ameciclo)
+- [PR: Migração do site da Ameciclo (Next.js 14 → Remix v2)](https://github.com/Ameciclo/ameciclo/pull/109)
+
+---
+
+## 📡 Acompanhe meu trabalho
+
+Estou sempre evoluindo projetos que geram impacto real na mobilidade urbana e no acesso à cidade.
+
+Fique à vontade para explorar, contribuir ou trocar uma ideia!
